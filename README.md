@@ -40,7 +40,7 @@ This project is a full-stack MERN (MongoDB, Express, React, Node.js) web applica
 
 ## 📂 Folder Structure
 
-![Image](https://github.com/user-attachments/assets/ab7f34e8-d1e7-45a5-97cc-f4c78515919b)
+![Image](https://github.com/user-attachments/assets/f0d468b3-843a-4a10-88ea-9d70b3968a6e)
 
 ---
 
