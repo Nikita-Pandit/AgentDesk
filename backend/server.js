@@ -15,7 +15,7 @@ app.use(express.json())
 const agentRoutes=require("./routes/agentRoutes")
 // const agentRoutes = require('./routes/agentRoutes')
 // app.use('/api/agents', agentRoutes)
-
+const authMiddleware=require("./middlewares/authMiddleware")
 
 const {Record}=require("./models/Record")
 
@@ -25,7 +25,7 @@ app.use("/api",agentRoutes)
 
 
 // @route GET /api/records-by-agent
-app.get('/api/records-by-agent', async (req, res) => {
+app.get('/api/records-by-agent', authMiddleware, async (req, res) => {
   try {
     const agents = await Agent.find();
     const records = await Record.find();
@@ -92,8 +92,8 @@ mongoose.connect(process.env.MONGO_URL)
 
 
 const createAdmin = async () => {
-  const email = 'miya@example.com'
-  const plainPassword = 'miya123'
+  const email = 'admin@example.com'
+  const plainPassword = 'admin123'
 
   console.log('🔐 Creating admin...')
   const hashedPassword = await bcrypt.hash(plainPassword, 10)
