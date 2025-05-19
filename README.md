@@ -67,7 +67,7 @@ This project is a full-stack MERN (MongoDB, Express, React, Node.js) web applica
 
 **A complete working demonstration has been recorded and uploaded:**
 
-![Image](https://github.com/user-attachments/assets/6e3a356a-0afd-4576-8eb8-aaf157ef685a)
+https://drive.google.com/file/d/1wbff1UvAD8txxSaqaKsfaEV2pFuj67xE/view?usp=sharing
 
 **The demo covers:**
 - Admin Login
