@@ -85,11 +85,14 @@ Make sure MongoDB is running (locally or via MongoDB Atlas).
 
 **1. Login as Admin**
 - Use pre-defined or seeded admin credentials.
+  
 **2. Add Agents**
 - Fill the form with name, email, mobile number, and password.
+  
 **3. Upload CSV File**
 - upload .csv, .xlsx, or .xls file.
 - File should contain columns: FirstName, Phone, Notes.
+  
  **4. View Distributed List**
 - Entries will be split equally among 5 agents and stored in DB.
 - Lists will be displayed per agent in the frontend.
