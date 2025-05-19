@@ -48,8 +48,8 @@ This project is a full-stack MERN (MongoDB, Express, React, Node.js) web applica
 
 ### 1. Clone the Repository
 
-https://github.com/Nikita-Pandit/AgentDesk
-cd AgentDesk
+- https://github.com/Nikita-Pandit/AgentDesk
+- cd AgentDesk
 
 ### 2. Set Up Environment Variables
 
