@@ -63,6 +63,30 @@ This project is a full-stack MERN (MongoDB, Express, React, Node.js) web applica
 
 ---
 
+## 🚀 Execution Instructions
+
+### Step 1: Start MongoDB
+
+**Make sure MongoDB is running (locally or via MongoDB Atlas).**
+
+### Step 2: Start the Backend Server
+
+- cd backend
+- npm start
+
+### Step 3: Start the Frontend React App
+
+- cd client
+- npm run dev
+
+---
+
+## ✅ How to Use the App
+
+***1.Login as Admin***
+
+
+
 ## 🎥 Video Demonstration
 
 **A complete working demonstration has been recorded and uploaded:**
