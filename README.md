@@ -94,7 +94,15 @@ This project is a full-stack MERN (MongoDB, Express, React, Node.js) web applica
 
 ``Nikita Pandit``
 - 🔗 GitHub: nikita000pandit
-- 📧 Email: your-email@example.com
+- 📧 Email: 22054434@kiit.ac.in
+
+  ---
+
+## 📄 License
+
+**This project is submitted as part of a machine test for MERN Stack Developer role. Intended for evaluation/demo use.**
+
+  
 
 
 
