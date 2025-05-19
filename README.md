@@ -43,5 +43,5 @@ This project is a full-stack MERN (MongoDB, Express, React, Node.js) web applica
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mern-machine-test.git
-cd mern-machine-test
+https://github.com/Nikita-Pandit/AgentDesk
+cd AgentDesk
