@@ -38,6 +38,12 @@ This project is a full-stack MERN (MongoDB, Express, React, Node.js) web applica
 
 ---
 
+## 📂 Folder Structure
+
+![Image](https://github.com/user-attachments/assets/ab7f34e8-d1e7-45a5-97cc-f4c78515919b)
+
+---
+
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
@@ -54,6 +60,43 @@ cd AgentDesk
 ### 3. Install Dependencies
 
 ![Image](https://github.com/user-attachments/assets/6e3a356a-0afd-4576-8eb8-aaf157ef685a)
+
+---
+
+## 🎥 Video Demonstration
+
+**A complete working demonstration has been recorded and uploaded:**
+
+![Image](https://github.com/user-attachments/assets/6e3a356a-0afd-4576-8eb8-aaf157ef685a)
+
+**The demo covers:**
+- Admin Login
+- Adding Agents
+- Uploading CSV
+- Viewing distributed task list for each agent
+
+----
+
+## ✅ Evaluation Checklist
+-  Functional Admin Login with JWT
+- Add and manage agent data
+- Upload and validate CSV/XLSX file
+- Distribute list data equally among 5 agents
+- Display assigned data to agents
+- Frontend + Backend integration
+- Code comments and best practices followed
+- .env provided (without credentials)
+- Installation instructions and demo video included
+
+---
+
+## 👩‍💻 Author
+
+``Nikita Pandit``
+- 🔗 GitHub: nikita000pandit
+- 📧 Email: your-email@example.com
+
+
 
   
 
