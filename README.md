@@ -53,7 +53,7 @@ cd AgentDesk
 
 ### 3. Install Dependencies
 
-![Image](https://github.com/user-attachments/assets/75b359c0-8d54-4294-8e9a-a554f200314c)
+![Image](https://github.com/user-attachments/assets/6e3a356a-0afd-4576-8eb8-aaf157ef685a)
 
   
 
