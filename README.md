@@ -42,6 +42,17 @@ This project is a full-stack MERN (MongoDB, Express, React, Node.js) web applica
 
 ### 1. Clone the Repository
 
-```bash
 https://github.com/Nikita-Pandit/AgentDesk
 cd AgentDesk
+
+### 2. Set Up Environment Variables
+
+- Create a .env file in the /backend folder and add:
+  ![Image](https://github.com/user-attachments/assets/7042688e-5986-436b-a9f9-8fd0a1464b32)
+
+### 3. Install Dependencies
+
+![Image](https://github.com/user-attachments/assets/75b359c0-8d54-4294-8e9a-a554f200314c)
+
+  
+
