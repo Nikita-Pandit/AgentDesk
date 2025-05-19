@@ -76,6 +76,7 @@ Make sure MongoDB is running (locally or via MongoDB Atlas).
 
 ### Step 3: Start the Frontend React App
 
+**Open a new terminal window/tab:**
 - cd client
 - npm run dev
 
@@ -96,7 +97,7 @@ Make sure MongoDB is running (locally or via MongoDB Atlas).
  **4. View Distributed List**
 - Entries will be split equally among 5 agents and stored in DB.
 - Lists will be displayed per agent in the frontend.
-
+  
   ---
   
 ## 🎥 Video Demonstration
