@@ -48,7 +48,8 @@ cd AgentDesk
 ### 2. Set Up Environment Variables
 
 - Create a .env file in the /backend folder and add:
-  ![Image](https://github.com/user-attachments/assets/7042688e-5986-436b-a9f9-8fd0a1464b32)
+  
+  ![Image](https://github.com/user-attachments/assets/25dc8289-e1a9-4a74-9e68-c7d7205791e6)
 
 ### 3. Install Dependencies
 
